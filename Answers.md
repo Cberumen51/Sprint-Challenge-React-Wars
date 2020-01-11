@@ -4,7 +4,7 @@
 React JS is a tool for anyone that is tring to make user interfaces. It was created by Facebook to make easier to make and change the data without having to keep reloading the page.
 
 1. What does it mean to think in react?
-Thinking in React makes life eaier. You can set up some wireframe and adjust it very easily. It's different from anything before. It is just a good way to make a UI
+Thinking in React makes life eaier. It is a was to build web apps with javascript with ease. By using some guides to help set-up everything. All the UI materials can fall into place very easily
 
 1. Describe state.
 The state hold the property values for components. It is managed within the component.
