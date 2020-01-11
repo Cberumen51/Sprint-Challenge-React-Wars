@@ -3,18 +3,24 @@ import styled from 'styled-components'
 
 const Card = styled.div `
 display: flex;
-flex-direction: row;
-flex-wrap: wrap
-backgroun-color: black
-align-item: space-around;
+width: 25%;
+padding 2px;
+flex-direction: column;
+align-items: center;
+flex-wrap: wrap;
+margin: 1%;
+border: 3px solid red;
+color: blue;
 `
 const CharName = styled.div `
 font-size: 30px;
+padding-top:10px;
 `
 
 
 const CharInfo = styled.p `
-font-size: 1.2rem;
+font-size: 20px;
+align-items:space-evenly;
 `
 
 export default function CharaceterCard(props) {
